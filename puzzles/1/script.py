@@ -57,7 +57,7 @@ def main():
             total += int(f"{first}{second}")
 
     print(total)
-    # 55428
+    # 55652
 
 
 if __name__ == "__main__":
